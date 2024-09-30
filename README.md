@@ -4,5 +4,5 @@
 
 It's a weather forecast application using an API made by HTML, CSS &amp; JavaScript.
 
-The app is created by [Kumar suman](https://www.linkedin.com/in/kr-suman/) for project Purpose
+The app is created by [liza gupta](https://www.linkedin.com/in/lizagupta2002/) for project Purpose
 
